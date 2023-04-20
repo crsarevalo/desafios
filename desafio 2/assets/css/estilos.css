@@ -1,0 +1,77 @@
+.header {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: azure;
+  padding: 0.8rem;
+  text-align: center;
+  margin: 1rem;
+  border-radius: 1rem;
+  background-image: url(../img/logo.png);
+  background-size:cover;
+  background-size: 12rem;
+  background-repeat: no-repeat;
+  background-position-x: 90%;
+}
+
+.header h1 {
+  font-size: 2rem;
+}
+
+.header p {
+  font-size: 1.3rem;
+}
+
+body 
+{
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(../img/autopista.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: 100%;
+    
+}
+
+table {
+  width: 100%;
+  padding: 3rem;
+  }
+
+thead {
+  font-size: 1.3rem;
+  background-color: rgba(245, 245, 245, 0.525);
+}
+
+td {
+  background-color: rgba(245, 245, 245, 0.44);
+  font-size: 0.9rem;
+  font-style: italic;
+  text-align: center;
+  
+}
+
+td img {
+  height: 10rem;
+  border-radius: .5rem;
+  margin: 1rem;
+}
+
+.columna2 {
+  padding: 1rem;
+  width: 100%;
+}
+.columna3 {
+  padding: 1rem;
+  font-weight: 850;
+}
+
+.destacado {
+  font-weight: bold;
+  color: rgb(195, 0, 0);
+  font;
+}
+
+footer {
+  margin-top: 3rem;
+  background-color: azure;
+  font-size: 0.9rem;
+  text-align: center;
+}
